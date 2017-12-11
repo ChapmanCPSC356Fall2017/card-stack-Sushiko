@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sushiko/Desktop/Cardstack/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Sushiko/Desktop/Cardstack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ade4814f92b0a23381e37d42e0f2121917c0d4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sushiko/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.51/8b5933578dc55f32cfc1a25f1db6371e4161fb8f/kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="/Users/Sushiko/Desktop/Cardstack/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.51_9dd00bf506af3c225fde6211d686c86f6e3435b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sushiko/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/e34fe80c9714240525f665113dd3749415515655/kotlin-stdlib-1.1.51.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="/Users/Sushiko/Desktop/Cardstack/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.51_a8104f1b8308ad9672642adf35b2a9c95dd91960/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sushiko/Desktop/Cardstack/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ad015e8f68952ea22d196acc94c3ddca60f52a39">
+        <dex dex="/Users/Sushiko/Desktop/Cardstack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eef2233d734545fa42ad9f0f4b0b51e451e21727/classes.dex" />
+    </item>
+
+</items>

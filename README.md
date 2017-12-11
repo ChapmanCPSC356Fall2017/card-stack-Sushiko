@@ -1,8 +1,8 @@
-                              ***************
-                               ASSIGNMENT 1
-                                 CARDSTACK
-                              ***************
-                                By Abe Choi
+                                      ***************
+                                        ASSIGNMENT 1
+                                         CARDSTACK
+                                      ***************
+                                        By Abe Choi
 
 
 Cardstack is an Android app which creates and generated playing cards. The 
